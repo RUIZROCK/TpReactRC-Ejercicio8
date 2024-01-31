@@ -1,0 +1,16 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.mainContainer {
+  flex-grow: 1;
+}
+
+.borderForm{
+  border-style: groove;
+  border-width: .2rem;
+  border-color: black;
+  border-radius: 5%;
+}
